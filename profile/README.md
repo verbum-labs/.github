@@ -1,5 +1,3 @@
-# Verbum Labs
+# Verbum
 
-Verbum Labs is a Catholic charity that is deeply involved in technology. Our mission is to help people love God more and more, and we do this through different types of projects.
-
-
+A **Verbum** é uma instituição que possui como propósito servir a Deus através do cuidado e dedicação para com o Corpo Místico de Cristo. Neste sentido somos uma instituição de natureza missionária.
